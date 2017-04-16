@@ -19,3 +19,6 @@ Createing AWS Test project using **Maven multi module template project**
    
 -> verify java is installed on ec2 instance 
    java -version
+   
+-> download oracle java using \n
+curl -L -O -H "Cookie: oraclelicense=accept-securebackup-cookie" -k "https://edelivery.oracle.com/otn-pub/java/jdk/8u66-b17/jdk-8u66-macosx-x64.dmg"
