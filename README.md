@@ -1,4 +1,4 @@
-####Createing AWS Test project using **Maven multi module template project**####
+#### Createing AWS Test project using **Maven multi module template project** ####
 
 - create an EC2 instance or use an existing instance.
 
