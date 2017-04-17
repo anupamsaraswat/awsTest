@@ -40,5 +40,5 @@ sudo chown -R ec2-user tomcat
 
 -> Copy generated artifact i.e. war files using SCP commond 
 
-scp -i "path_to_private_key_file" path_to_war_file ec-user@<amazon_ec2_instance_name.com>:path_to_save_file_on_EC2_server
+```scp -i "path_to_private_key_file" path_to_war_file ec-user@<amazon_ec2_instance_name.com>:path_to_save_file_on_EC2_server```
 
