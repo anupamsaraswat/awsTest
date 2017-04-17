@@ -8,8 +8,8 @@
 - connect from terminal or any ssh client using.
    ssh -i "privatekey" ec2-user@<amazon_ec2_instance_name.com>
 
-- Update packages on your ec2 instance using
-   sudo yum update -y
+- Update packages on your ec2 instance using 
+  sudo yum update -y
    
 - Install tomcat on ec2 instance, Get a list of package available
    sudo yum list tomcat*
