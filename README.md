@@ -61,5 +61,8 @@ sudo chown -R ec2-user tomcat
 
 > sudo yum install docker
 
+- install git 
+ - sudo yum git install -y
+
 
 
