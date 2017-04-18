@@ -54,6 +54,7 @@ sudo chown -R ec2-user tomcat
 
 #### Docker installation on AWS Reh hat 7 instance ####
 
+---
 > sudo yum install yum-utils
 sudo yum-config-manager --enable rhui-REGION-rhel-server-extras
 sudo yum install docker
