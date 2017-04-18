@@ -49,3 +49,14 @@ sudo chown -R ec2-user tomcat
 
 ```scp -i "path_to_private_key_file" path_to_war_file ec-user@<amazon_ec2_instance_name.com>:path_to_save_file_on_EC2_server```
 
+
+
+
+#### Docker installation on AWS Reh hat 7 instance ####
+
+> sudo yum install yum-utils
+sudo yum-config-manager --enable rhui-REGION-rhel-server-extras
+sudo yum install docker
+
+
+
